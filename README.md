@@ -1,4 +1,3 @@
-# PortScanner
 # Python TCP Port Scanner
 
 A simple TCP port scanner made with Python and Nmap.
